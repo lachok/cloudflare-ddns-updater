@@ -1,0 +1,13 @@
+{
+    "encryption_key": "",
+    "auth_email": "example@example.com",
+    "auth_method": "Set to 'global' for Global API Key or 'token' for Scoped API Token",
+    "auth_key": "Your API Token or Global API Key",
+    "zone_identifier": "Can be found in the 'Overview' tab of your domain",
+    "record_name": "Which record you want to be synced",
+    "ttl":  3600,
+    "proxy": "Set the proxy to true or false",
+    "sitename": "Title of site - used in notifications",
+    "pushover_token": "Pushover token for notifications - https://pushover.net/",
+    "pushover_user": "Pushover user for notifications - https://pushover.net/"
+}
